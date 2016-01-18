@@ -9,16 +9,11 @@ h1.amos {
 h3.about {
   font-family: Futura;
   text-align: left;
-  font-size: 1.5em;
 }
 
 img.bro {
   max-width: 100%;
   vertical-align: center;
-}
-
-.work {
-  margin-top: 2%;
 }
 
 .box {
@@ -35,7 +30,7 @@ img.bro {
 }
 
 p.about {
-  font-size: 26px;
+  font-size: 22px;
   line-height: 1.3;
   margin-bottom: 0.5em;
 }
@@ -50,13 +45,13 @@ p.email {
 
 p.name {
   float:right;
-  font-size: 1.5em;
+  font-size: 26px;
 }
 
 a.about {
   text-decoration: none;
   color: #000;
-  font-size: 26px;
+  font-size: 22px;
 }
 
 a.about:active {
