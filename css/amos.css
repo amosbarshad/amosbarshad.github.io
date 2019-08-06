@@ -38,7 +38,7 @@ p.work {
 p.about {
   line-height: 1.4;
   margin-bottom: 2%;
-  font-size: 1.67em;
+  font-size: 1.77em;
 }
 
 p.about a {
@@ -61,7 +61,7 @@ p.email {
 }
 
 p.name {
-  font-size: 1.67em;
+  font-size: 1.77em;
   text-align: center;
 }
 
@@ -98,7 +98,7 @@ li {
 @media only screen and (max-width: 414px) {
     
     p.name {
-      font-size: 13px;
+      font-size: 14px;
     }
 
     p.about {
