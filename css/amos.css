@@ -62,6 +62,7 @@ p.email {
 
 p.name {
   font-size: 1.67em;
+  text-align: center;
 }
 
 a.about {
@@ -94,10 +95,10 @@ li {
 }
 
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 414px) {
     
     p.name {
-      font-size: 0.96em;
+      font-size: 13px;
     }
 
     p.about {
@@ -109,7 +110,3 @@ li {
       font-size: 14px;
     }
 }
-
-
-
-
